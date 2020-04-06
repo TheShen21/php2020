@@ -5,12 +5,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>inhoud</title>
+    <title>opdracht 2</title>
 </head>
 <body>
-<a href="H01/opdr1.php">H1: Introductie</a><br>
-<a href="H02/indexh2.php">H2: Beginnen met programmeren</a><br>
-<a href="H03/indexH03.php">H3: Arrays, controlestructuren</a>
-
+<?php
+$bomen = array("img_0050.jpg","lillypilly1.jpg","Maranchery_Biyyam_Kayal_kandal.jpg","weeping-elm.jpg","weeping-elm0091.jpg");
+foreach ($bomen as $tree => $waarde){
+    echo "<img src = 'img/$waarde'>";
+}
+?>
 </body>
 </html>
