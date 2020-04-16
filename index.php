@@ -12,7 +12,10 @@
 <a href="H02/indexh2.php">H2: Beginnen met programmeren</a><br>
 <a href="H03/indexH03.php">H3: Arrays, controlestructuren</a><br>
 <a href="H04/indexH04.php">H4: Functies</a><br>
-<a href="H05/indexH05.php">H5: Dynamische website</a>
+<a href="H05/indexH05.php">H5: Dynamische website</a><br>
+<a href="H06/indexH06.php">H6: PHP met MySQL</a><br>
+<a href="H07/indexH7.php">H7: Cookies en Sessies</a>
+
 
 
 </body>
